@@ -1,0 +1,15 @@
+[submodule "bar"]
+	path = bar
+	url = https://github.com/LemonBoy/bar.git
+[submodule "bspwm"]
+	path = bspwm
+	url = https://github.com/baskerville/bspwm.git
+[submodule "sxhkd"]
+	path = sxhkd
+	url = https://github.com/baskerville/sxhkd.git
+[submodule "sutils"]
+	path = sutils
+	url = https://github.com/baskerville/sutils.git
+[submodule "xtitle"]
+	path = xtitle
+	url = https://github.com/baskerville/xtitle.git
